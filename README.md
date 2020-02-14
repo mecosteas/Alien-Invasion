@@ -1,8 +1,7 @@
 # Alien-Invasion
-An alien invasion game like the 1981 Galaga.
+An alien invasion game like the 1981 Galaga. Click [here](https://www.youtube.com/watch?v=8O2TZ5ukDS0) for a 30 second demo on YouTube.
 
-
-Dependencies: pygame
+## Dependencies: pygame
 ```
 python3 -m pip install -U pygame --user
 ```
